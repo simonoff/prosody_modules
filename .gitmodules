@@ -1,0 +1,27 @@
+[submodule "mod_auth_ldap"]
+	path = mod_auth_ldap
+	url = https://github.com/prosody-modules/mod_auth_ldap.git
+[submodule "mod_lib_ldap"]
+	path = mod_lib_ldap
+	url = https://github.com/prosody-modules/mod_lib_ldap.git
+[submodule "mod_carbons"]
+	path = mod_carbons
+	url = https://github.com/prosody-modules/mod_carbons.git
+[submodule "mod_idlecompat"]
+	path = mod_idlecompat
+	url = https://github.com/prosody-modules/mod_idlecompat.git
+[submodule "mod_smacks"]
+	path = mod_smacks
+	url = https://github.com/prosody-modules/mod_smacks.git
+[submodule "mod_storage_ldap"]
+	path = mod_storage_ldap
+	url = https://github.com/prosody-modules/mod_storage_ldap.git
+[submodule "mod_turncredentials"]
+	path = mod_turncredentials
+	url = https://github.com/prosody-modules/mod_turncredentials.git
+[submodule "mod_mam"]
+	path = mod_mam
+	url = https://github.com/prosody-modules/mod_mam.git
+[submodule "mod_mam_muc"]
+	path = mod_mam_muc
+	url = https://github.com/prosody-modules/mod_mam_muc.git
